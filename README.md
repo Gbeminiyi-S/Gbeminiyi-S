@@ -1,4 +1,4 @@
-<h3>A passionate backend developer from Nigeria and a Software Engineering student with ALx</h3>
+<h3>A backend developer from Nigeria and a Software Engineering student with ALx</h3>
 
 - 📝 I regularly write articles on [https://gbeminiyi.hashnode.dev/](https://gbeminiyi.hashnode.dev/)
 
