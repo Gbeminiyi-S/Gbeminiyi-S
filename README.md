@@ -1,5 +1,4 @@
 <h1>Profile</h1>
-<p>I am an ALx Software Engineering Student with interest in backend development.</p>
 
 - 📝 I write technical articles on [https://gbeminiyi.hashnode.dev/](https://gbeminiyi.hashnode.dev/)
 
